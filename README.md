@@ -1,17 +1,17 @@
-<h1 align="center">Hey 👋, I'm Akshay Kumar Ravirala</h1>
+<h1 align="center">Hi 👋, I'm Akshay Kumar Ravirala</h1>
 <h3 align="center">A Self Taught Data Analyst Based in Berlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay0649&label=Profile%20views&color=0e75b6&style=flat" alt="akshay0649" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akshayravirala" target="blank"><img src="https://img.shields.io/twitter/follow/akshayravirala?logo=twitter&style=for-the-badge" alt="akshayravirala" /></a> </p>
 
-- 🤝 I’m looking for New opportunity **As a Data Analyst**
-
 - 🔭 I’m currently working on **Customer Experience Data for BI**
 
-- 🌱 I’m currently learning **Machine Leanrning, PostgreSQL, Data Modelling**
+- 🌱 I’m currently learning **SQL, Data Modelling,**
 
 - 👯 I’m Open to collaborate on **Projects Related to Data Analytics**
+
+- 🤝 I’m looking for New opportunity **As a Data Analyst**
 
 - 💬 Ask me about **Excel, Python, Tableau, PowerBI**
 
@@ -22,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshayravirala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshayravirala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshayravirala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshayravirala/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/akshay_kumar1220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/akshay_kumar1220/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshayravirala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshayravirala" height="30" width="40" /></a>
+<a href="https://instagram.com/akshay_kumar1220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_kumar1220" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
