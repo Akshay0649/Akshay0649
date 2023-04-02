@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Kumar Ravirala</h1>
+<h1 align="center">Hey 👋, I'm Akshay Kumar Ravirala</h1>
 <h3 align="center">A Self Taught Data Analyst Based in Berlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay0649&label=Profile%20views&color=0e75b6&style=flat" alt="akshay0649" /> </p>
