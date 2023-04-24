@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/akshayravirala" target="blank"><img src="https://img.shields.io/twitter/follow/akshayravirala?logo=twitter&style=for-the-badge" alt="akshayravirala" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Experience Data for BI**
+- 🔭 Currently seeking for an new opportunities as a  **Business/Data Analyst**
+
+- 🔭 Perviously worked as a **Data Analyst for a service based company**
 
 - 🌱 I’m currently learning **SQL, Data Modelling,**
 
