@@ -9,7 +9,7 @@
 
 - 🔭 Previously worked as a **Data Analyst for a service based company**
 
-- 🌱 I’m currently learning ** SQL and Data Modelling,**
+- 🌱 I’m currently learning **SQL and Data Modelling,**
 
 - 👯 I’m Open to collaborate on **Projects Related to Data Analytics**
 
