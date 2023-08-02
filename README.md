@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/akshayravirala" target="blank"><img src="https://img.shields.io/twitter/follow/akshayravirala?logo=twitter&style=for-the-badge" alt="akshayravirala" /></a> </p>
 
-- 🔭 Currently seeking for an new opportunities as a  **Business/Data Analyst**
+- 🔭 Currently seeking for new opportunities as a  **Business/Data Analyst**
 
-- 🔭 Perviously worked as a **Data Analyst for a service based company**
+- 🔭 Previously worked as a **Data Analyst for a service based company**
 
-- 🌱 I’m currently learning **SQL, Data Modelling,**
+- 🌱 I’m currently learning ** SQL and Data Modelling,**
 
 - 👯 I’m Open to collaborate on **Projects Related to Data Analytics**
 
