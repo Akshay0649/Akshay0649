@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar Ravirala</h1>
-<h3 align="center">A Self Taught Data Analyst Based in Berlin</h3>
+<h3 align="center"> Data Analyst Based in Berlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay0649&label=Profile%20views&color=0e75b6&style=flat" alt="akshay0649" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 Previously worked as a **Data Analyst for a service based company**
 
-- 🌱 I’m currently learning **SQL and Data Modelling,**
+- 🌱 I’m currently working on a Project related to **Data Modelling**
 
 - 👯 I’m Open to collaborate on **Projects Related to Data Analytics**
 
