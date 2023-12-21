@@ -17,9 +17,8 @@
 
 - 💬 Ask me about **Excel, Python, Tableau, PowerBI**
 
-- 📫 How to reach me **akshaykumar25@gmail.com**
+- 📫 How to reach me ** raviralaakshay@hotmail.com**
 
-- 📄 Know about my experiences [https://bold.pro/my/akshay-ravirala](https://bold.pro/my/akshay-ravirala)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
