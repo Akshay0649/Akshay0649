@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Akshay Kumar Ravirala</h1>
-<h3 align="center"> Data Analyst Based in Berlin</h3>
+<h1 align="center">### 👋 Hi, I’m Akshay Kumar Ravirala </h1>
+<h3 align="center"> **Business & Data Analyst** | Turning complexity into clarity with Python, SQL & BI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay0649&label=Profile%20views&color=0e75b6&style=flat" alt="akshay0649" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akshayravirala" target="blank"><img src="https://img.shields.io/twitter/follow/akshayravirala?logo=twitter&style=for-the-badge" alt="akshayravirala" /></a> </p>
 
-- 🔭 Currently seeking for new opportunities as a  **Business/Data Analyst**
+ 
 
-- 🔭 Previously worked as a **Data Analyst for a service based company**
+🔍 Currently open to meaningful opportunities in analytics, reporting automation, or digital transformation  
+📍 Based in Frankfurt | 🌍 Collaborating across borders  
+🧠 Most interested in: data systems that scale, audit-ready BI, and clean storytelling in dashboards  
+🛠️ Tools I work with: Python, SQL, Power BI, Tableau, Excel, SSIS  
+📬 Reach me at: raviralaakshay@hotmail.com  
+💡 Fun side projects: automation experiments, dashboard redesigns, AI video storytelling  
 
-- 🌱 I’m currently working on a Project related to **Data Modelling**
+> I believe great analytics isn’t about dashboards — it’s about helping people make better decisions.
 
-- 👯 I’m Open to collaborate on **Projects Related to Data Analytics**
+Let’s connect, collaborate, or share ideas.
 
-- 🤝 I’m looking for New opportunity **As a Data Analyst**
-
-- 💬 Ask me about **Excel, Python, Tableau, PowerBI**
-
-- 📫 How to reach me ** raviralaakshay@hotmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
