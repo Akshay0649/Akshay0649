@@ -1,5 +1,5 @@
 <h1 align="center">### 👋 Hi, I’m Akshay Kumar Ravirala </h1>
-<h3 align="center"> **Business & Data Analyst** | Turning complexity into clarity with Python, SQL & BI </h3>
+<h3 align="center"> **Financial Analyst** | Turning complexity into clarity with Python, SQL & BI </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay0649&label=Profile%20views&color=0e75b6&style=flat" alt="akshay0649" /> </p>
 
