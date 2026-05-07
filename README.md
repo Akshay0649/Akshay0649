@@ -11,7 +11,7 @@
 📍 Based in Frankfurt | 🌍 Collaborating across borders  
 🧠 Most interested in: data systems that scale, audit-ready BI, and clean storytelling in dashboards  
 🛠️ Tools I work with: Python, SQL, Power BI, Tableau, Excel, SSIS  
-📬 Reach me at: raviralaakshay@hotmail.com  
+📬 Reach me at: akshayr213@hotmail.com  
 💡 Fun side projects: automation experiments, dashboard redesigns, AI video storytelling  
 
 > I believe great analytics isn’t about dashboards — it’s about helping people make better decisions.
