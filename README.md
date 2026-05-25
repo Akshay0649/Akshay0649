@@ -10,7 +10,7 @@
 🔍 Currently open to meaningful opportunities in analytics, reporting automation, or digital transformation  
 📍 Based in Frankfurt | 🌍 Collaborating across borders  
 🧠 Most interested in: data systems that scale, audit-ready BI, and clean storytelling in dashboards  
-🛠️ Tools I work with: Python, SQL, Power BI, Tableau, Excel, SSIS  
+🛠️ Tools I work with: Python, SQL, Power BI, Tableau, Excel, AzureSQL, Databricks, APACHE Airflow 
 📬 Reach me at: akshayr213@hotmail.com  
 💡 Fun side projects: automation experiments, dashboard redesigns, AI video storytelling  
 
